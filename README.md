@@ -6,7 +6,7 @@
 
 ## ScreenShots
 **Login:**
-![Login](images/Login.jpeg)
+![Login](images/login.jpeg)
 **Register:**
 ![Register](images/Register.jpeg)
 **User:**
